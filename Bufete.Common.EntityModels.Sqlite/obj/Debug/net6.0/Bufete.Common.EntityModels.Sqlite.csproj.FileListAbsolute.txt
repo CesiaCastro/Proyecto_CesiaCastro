@@ -1,0 +1,14 @@
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\bin\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.deps.json
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\bin\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.runtimeconfig.json
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\bin\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.dll
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\bin\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.pdb
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.AssemblyInfo.cs
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.dll
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\refint\Bufete.Common.EntityModels.Sqlite.dll
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.pdb
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\Bufete.Common.EntityModels.Sqlite.genruntimeconfig.cache
+C:\Users\Familia CastroFlores\Desktop\Visual\PII_2022_II_P2.1_2020130063\Bufete.Common.EntityModels.Sqlite\obj\Debug\net6.0\ref\Bufete.Common.EntityModels.Sqlite.dll
